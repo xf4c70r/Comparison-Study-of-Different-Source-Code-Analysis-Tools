@@ -1,0 +1,311 @@
+Title,Vulnerable Package,Ecosystem,Risk,Patched,Disclosed on
+CVE-2024-45230: Django Denial-of-Service Vulnerability in urlize() and urlizetrunc() Filters,django,Bitnami,High,Yes,2 weeks ago
+CVE-2024-45231: Django Password Reset Form User Enumeration Vulnerability,django,Bitnami,Medium,Yes,2 weeks ago
+CVE-2024-45231: Django User Email Enumeration Vulnerability,django,PyPI,MODERATE,Yes,4 weeks ago
+CVE-2024-45230: Django Denial-of-Service Vulnerability via urlize() and urlizetrunc() Filters,django,PyPI,MODERATE,Yes,4 weeks ago
+Denial-of-Service Vulnerability in Django Package: CVE-2024-45230,python-django,Debian:11,N/A,No,4 weeks ago
+User Email Enumeration Vulnerability in Django - CVE-2024-45231,python-django,Debian:11,N/A,No,4 weeks ago
+CVE-2024-45230: Django Denial-of-Service Vulnerability via urlize() and urlizetrunc() Filters,django,PyPI,N/A,Yes,4 weeks ago
+Critical Malicious Code Vulnerability in djangopeopletest Package,djangopeopletest,npm,CRITICAL,No,1 month ago
+Critical Malicious Code Vulnerability in djangopeople Package,djangopeople,npm,CRITICAL,No,1 month ago
+Malicious Code Detected in djangosnippets Package: Version 9.9.9 Vulnerability,djangosnippets,npm,CRITICAL,No,1 month ago
+CVE-2024-41989: Django Floatformat Template Filter Memory Consumption Vulnerability,django,Bitnami,High,Yes,2 months ago
+CVE-2024-41990: Django - Denial-of-Service via Large Inputs in urlize() and urlizetrunc() Template Filters,django,Bitnami,High,Yes,2 months ago
+...,django,Bitnami,High,Yes,2 months ago
+CVE-2024-42005: Django JSONField SQL Injection,django,Bitnami,High,Yes,2 months ago
+CVE-2024-41990: Django Denial-of-Service Vulnerability,django,PyPI,MODERATE,Yes,3 months ago
+CVE-2024-41991: Django Denial-of-Service Vulnerability,django,PyPI,MODERATE,Yes,3 months ago
+Django Memory Consumption Vulnerability in django,django,PyPI,MODERATE,Yes,3 months ago
+Django SQL Injection Vulnerability in django,django,PyPI,CRITICAL,Yes,3 months ago
+Denial-of-Service Vulnerability in Django Package: CVE-2024-41990,python-django,Debian:11,N/A,No,3 months ago
+Memory Consumption Vulnerability in Django Package: CVE-2024-41989,python-django,Debian:11,N/A,No,3 months ago
+SQL Injection Vulnerability in Django's QuerySet Methods,python-django,Debian:11,N/A,No,3 months ago
+Denial-of-Service Vulnerability in Django Package: CVE-2024-41990,python-django,Debian:11,N/A,No,3 months ago
+Denial-of-Service Vulnerability in Django,django,PyPI,N/A,Yes,3 months ago
+Memory Consumption Vulnerability in Django,django,PyPI,N/A,Yes,3 months ago
+SQL Injection in Django JSONField,django,PyPI,N/A,Yes,3 months ago
+Denial-of-Service Vulnerability in Django,django,PyPI,N/A,Yes,3 months ago
+Django vulnerable to Denial of Service,django,PyPI,HIGH,Yes,3 months ago
+CVE-2024-39329: Django User Enumeration Attack,django,PyPI,MODERATE,Yes,3 months ago
+CVE-2024-39330: Django Path Traversal vulnerability,django,PyPI,HIGH,Yes,3 months ago
+CVE-2024-39614: Django Denial of Service Vulnerability,django,PyPI,HIGH,Yes,3 months ago
+Denial-of-Service Vulnerability in Django 5.0 and 4.2: get_supported_language_variant() Affected,python-django,Debian:11,N/A,No,3 months ago
+Denial of Service Vulnerability in Django Package: CVE-2024-38875,python-django,Debian:11,N/A,No,3 months ago
+User Enumeration Vulnerability in Django 5.0 and 4.2 - CVE-2024-39329,python-django,Debian:11,N/A,No,3 months ago
+Directory Traversal Vulnerability in Django Package,python-django,Debian:11,N/A,No,3 months ago
+CVE-2024-39614: Django - Denial-of-Service Vulnerability,django,PyPI,N/A,Yes,3 months ago
+CVE-2024-39329: Timing Attack Vulnerability in Django,django,PyPI,N/A,Yes,3 months ago
+CVE-2024-39330: Directory Traversal Vulnerability in Django,django,PyPI,N/A,Yes,3 months ago
+...,django,PyPI,N/A,Yes,3 months ago
+CVE-2024-27351: Django Truncator Regular Expression Denial-of-Service Vulnerability,django,Bitnami,Medium,Yes,4 months ago
+Cross-site Scripting in djangorestframework,djangorestframework,PyPI,MODERATE,Yes,4 months ago
+Critical XSS Vulnerability in djangorestframework: Improper Input Sanitization,djangorestframework,Debian:11,N/A,No,4 months ago
+Malicious code in djangosnippets.org (npm),djangosnippets.org,npm,CRITICAL,No,4 months ago
+CVE-2013-1665: XML External Entity (XXE) in Django,django,PyPI,MODERATE,Yes,5 months ago
+CVE-2013-1664: XML Entity Expansion (XEE) in Django,django,PyPI,MODERATE,Yes,5 months ago
+Django Improper Access Control in django,django,PyPI,MODERATE,Yes,5 months ago
+Case Insensitivity Vulnerability in Social Auth App Django Package,social-auth-app-django,Debian:11,N/A,No,6 months ago
+CVE-2024-32879: social-auth-app-django - Improper Handling of Case Sensitivity,social-auth-app-django,PyPI,MODERATE,Yes,6 months ago
+CVE-2024-28865: Denial of Service in django-wiki,wiki,PyPI,HIGH,Yes,7 months ago
+CVE-2024-22513: Improper Privilege Management in djangorestframework-simplejwt,djangorestframework-simplejwt,PyPI,LOW,No,7 months ago
+Information Disclosure Vulnerability in djangorestframework-simplejwt (CVE-2024-22513),python-djangorestframework-simplejwt,Debian:12,N/A,No,7 months ago
+CVE-2024-27351: Regular expression denial-of-service in Django,django,PyPI,MODERATE,Yes,7 months ago
+Django Regular Expression Denial-of-Service Vulnerability - CVE-2024-27351,python-django,Debian:11,N/A,No,7 months ago
+CVE-2024-27351: Denial-of-Service Vulnerability in Django,django,PyPI,N/A,Yes,7 months ago
+CVE-2024-26164: Remote Code Execution Vulnerability in Microsoft Django Backend for SQL Server,mssql-django,PyPI,HIGH,Yes,7 months ago
+Django MarkdownX Cross-Site Scripting (XSS) Vulnerability in django-markdownx,django-markdownx,PyPI,MODERATE,No,7 months ago
+CVE-2023-46695: Django NFKC Normalization DoS Vulnerability,django,Bitnami,High,Yes,8 months ago
+CVE-2021-23336: Web Cache Poisoning in python/cpython,python,Bitnami,Medium,Yes,8 months ago
+CVE-2021-23336: Django Web Cache Poisoning via urllib.parse.parse_qsl and urllib.parse.parse_qs,django,Bitnami,Medium,Yes,8 months ago
+...,django,Bitnami,High,Yes,8 months ago
+Security Update for python-django,python-django,Debian:10,N/A,Yes,8 months ago
+CVE-2024-24680: Django intcomma Template Filter Denial-of-Service Vulnerability,django,Bitnami,High,Yes,8 months ago
+CVE-2024-24680: Denial-of-Service Vulnerability in Django,django,PyPI,N/A,Yes,9 months ago
+CVE-2024-24680: Django Denial-of-Service Attack in intcomma Template Filter,django,PyPI,MODERATE,Yes,9 months ago
+Denial-of-Service Vulnerability in Django Package: CVE-2024-24680,python-django,Debian:11,N/A,No,9 months ago
+CVE-2024-22199: Cross-site scripting in github.com/gofiber/template/django/v3,github.com/gofiber/template/django/v3,Go,N/A,Yes,9 months ago
+CVE-2024-22199: Django Template Engine Vulnerable to XSS,github.com/gofiber/template/django/v3,Go,CRITICAL,Yes,9 months ago
+CVE-2023-41164: Django - Denial of Service Vulnerability,django,Bitnami,High,Yes,11 months ago
+CVE-2023-43665: Django - Denial of Service Vulnerability,django,Bitnami,High,Yes,11 months ago
+CVE-2023-43791: Label Studio Hardcoded Django SECRET_KEY Vulnerability,label-studio,PyPI,CRITICAL,Yes,11 months ago
+CVE-2020-13254: Django - Memcached Backend Key Collision Vulnerability,django,Bitnami,Medium,Yes,1 year ago
+CVE-2020-13596: Django - XSS Vulnerability in ForeignKeyRawIdWidget,django,Bitnami,Medium,Yes,1 year ago
+CVE-2020-24583: Django - Inadequate Permissions for Uploaded Files,django,Bitnami,High,Yes,1 year ago
+CVE-2020-24584: Django Filesystem Cache Umask Vulnerability,django,Bitnami,High,Yes,1 year ago
+CVE-2020-7471: Django SQL Injection Vulnerability,django,Bitnami,Critical,Yes,1 year ago
+CVE-2020-9402: SQL Injection in Django,django,Bitnami,High,Yes,1 year ago
+CVE-2021-28658: Directory Traversal Vulnerability in Django,django,Bitnami,Medium,Yes,1 year ago
+CVE-2021-31542: Directory Traversal Vulnerability in Django,django,Bitnami,High,Yes,1 year ago
+CVE-2021-32052: Django URLValidator Header Injection,django,Bitnami,Medium,Yes,1 year ago
+CVE-2021-3281: Django - Directory Traversal Vulnerability,django,Bitnami,Medium,Yes,1 year ago
+CVE-2021-33203: Directory Traversal Vulnerability in Django,django,Bitnami,Medium,Yes,1 year ago
+CVE-2021-33571: Django - IP Address Bypass Vulnerability,django,Bitnami,High,Yes,1 year ago
+CVE-2021-35042: Django SQL Injection in QuerySet.order_by,django,Bitnami,Critical,Yes,1 year ago
+CVE-2021-44420: Django - Bypass of Access Control Based on URL Paths,django,Bitnami,High,Yes,1 year ago
+CVE-2021-45115: Django UserAttributeSimilarityValidator Denial-of-Service Vulnerability,django,Bitnami,High,Yes,1 year ago
+CVE-2021-45116: Django Template Language dictsort Filter Information Disclosure Vulnerability,django,Bitnami,High,Yes,1 year ago
+CVE-2021-45452: Django - Directory Traversal Vulnerability,django,Bitnami,Medium,Yes,1 year ago
+CVE-2022-22818: Django - Improper Encoding of Context in {% debug %} Template Tag,django,Bitnami,Medium,Yes,1 year ago
+CVE-2022-23833: Django - Infinite Loop in MultiPartParser,django,Bitnami,High,Yes,1 year ago
+CVE-2022-28346: SQL Injection Vulnerability in Django,django,Bitnami,Critical,Yes,1 year ago
+CVE-2022-28347: SQL Injection in Django,django,Bitnami,Critical,Yes,1 year ago
+CVE-2022-34265: Django Trunc() and Extract() SQL Injection Vulnerability,django,Bitnami,Critical,Yes,1 year ago
+CVE-2022-41323: Django Internationalized URLs Denial of Service Vulnerability,django,Bitnami,High,Yes,1 year ago
+CVE-2023-23969: Django Accept-Language Header Parsing Denial-of-Service,django,Bitnami,High,Yes,1 year ago
+CVE-2023-24580: Django Multipart Request Parser Denial-of-Service Vulnerability,django,Bitnami,High,Yes,1 year ago
+CVE-2023-31047: Django Multiple File Upload Validation Bypass,django,Bitnami,Critical,Yes,1 year ago
+CVE-2023-36053: Django EmailValidator and URLValidator ReDoS Vulnerability,django,Bitnami,High,Yes,1 year ago
+CVE-2023-43665: Django Denial-of-service in django.utils.text.Truncator,django,PyPI,MODERATE,Yes,1 year ago
+CVE-2023-41164: Django Denial of Service Vulnerability in django.utils.encoding.uri_to_iri,django,PyPI,MODERATE,Yes,1 year ago
+Denial of Service Vulnerability in Django Package - CVE-2023-43665,python-django,Debian:11,N/A,No,1 year ago
+Denial of Service Vulnerability in Django - CVE-2023-41164,python-django,Debian:11,N/A,No,1 year ago
+CVE-2023-43665: Denial of Service Vulnerability in Django,django,PyPI,N/A,Yes,1 year ago
+CVE-2023-41164: Denial of Service Vulnerability in Django,django,PyPI,N/A,Yes,1 year ago
+CVE-2023-46695: Django potential denial of service vulnerability in UsernameField on Windows,django,PyPI,HIGH,Yes,1 year ago
+CVE-2023-46695: Denial of Service Vulnerability in Django,django,PyPI,N/A,Yes,1 year ago
+Vulnerability in django-grappelli: External Redirection Bypass,django-grappelli,PyPI,MODERATE,Yes,1 year ago
+External Redirection Vulnerability in django-grappelli,django-grappelli,PyPI,N/A,Yes,1 year ago
+Vulnerability in python-django - Denial of Service,python-django,Debian:10,N/A,Yes,1 year ago
+Security Update for python-django,python-django,Debian:11,N/A,Yes,1 year ago
+Vulnerability in python-django - security update,python-django,Debian:10,N/A,Yes,1 year ago
+CVE-2023-36053: Django EmailValidator/URLValidator Regular Expression Denial of Service Vulnerability,django,PyPI,HIGH,Yes,1 year ago
+ReDoS Vulnerability in Django EmailValidator and URLValidator,python-django,Debian:11,N/A,Yes,1 year ago
+CVE-2023-36053: Django - ReDoS Vulnerability in EmailValidator and URLValidator,django,PyPI,N/A,Yes,1 year ago
+CVE-2023-33185: Django-SES Arbitrary Certificate Vulnerability,django-ses,PyPI,N/A,Yes,1 year ago
+CVE-2023-33185: Incorrect signature verification in django-ses,django-ses,PyPI,MODERATE,Yes,1 year ago
+Malicious code in print-django (PyPI),print-django,PyPI,CRITICAL,No,1 year ago
+Malicious code in django-pyyaml (PyPI),django-pyyaml,PyPI,CRITICAL,No,1 year ago
+CVE-2023-31047: Django Multiple File Upload Validation Bypass,django,PyPI,CRITICAL,Yes,1 year ago
+Django File Upload Validation Bypass Vulnerability - CVE-2023-31047,python-django,Debian:11,N/A,Yes,1 year ago
+CVE-2023-31047: Django Multiple File Upload Validation Bypass,django,PyPI,N/A,Yes,1 year ago
+Vulnerability in python-django - security update,python-django,Debian:10,N/A,Yes,1 year ago
+CVE-2017-20182: Cross-site Scripting in django-ajax-utilities,django-ajax-utilities,PyPI,MODERATE,Yes,1 year ago
+Denial-of-Service Vulnerability in python-django,python-django,Debian:10,N/A,Yes,1 year ago
+CVE-2023-24580: Resource Exhaustion in Django,django,PyPI,HIGH,Yes,1 year ago
+Denial-of-Service Vulnerability in Django Multipart Request Parser,python-django,Debian:11,N/A,Yes,1 year ago
+CVE-2023-24580: Django Multipart Request Parser Denial-of-Service Vulnerability,django,PyPI,N/A,Yes,1 year ago
+CVE-2023-23969: Django Uncontrolled Resource Consumption via cached header,django,PyPI,HIGH,Yes,1 year ago
+Denial-of-Service Vulnerability in Django: Excessive Memory Usage via Accept-Language Headers,python-django,Debian:11,N/A,Yes,1 year ago
+CVE-2023-23969: Django - Denial-of-Service via Excessive Memory Usage,django,PyPI,N/A,Yes,1 year ago
+Vulnerability in python-django - Denial of Service (DoS),python-django,Debian:10,N/A,Yes,1 year ago
+CVE-2023-265: Malicious code in django-yauth (npm),django-yauth,npm,CRITICAL,No,1 year ago
+CVE-2023-262: Malicious code in django-idm-api (npm),django-idm-api,npm,CRITICAL,No,1 year ago
+CVE-2023-263: Malicious code in django-pgaas (npm),django-pgaas,npm,CRITICAL,No,1 year ago
+CVE-2023-264: Malicious code in django-template-common (npm),django-template-common,npm,CRITICAL,No,1 year ago
+CVE-2016-15010: django-ucamlookup Cross-site Scripting vulnerability,django-ucamlookup,PyPI,MODERATE,Yes,1 year ago
+CVE-2016-15010: Cross-Site Scripting Vulnerability in django-ucamlookup,django-ucamlookup,PyPI,N/A,Yes,1 year ago
+CVE-2022-4589: Open Redirect Vulnerability in django-termsandconditions,django-termsandconditions,PyPI,MODERATE,Yes,1 year ago
+CVE-2022-4526: django-photologue Cross-site Scripting Vulnerability,django-photologue,PyPI,MODERATE,Yes,1 year ago
+CVE-2022-4526: django-photologue Cross-Site Scripting Vulnerability,django-photologue,PyPI,N/A,Yes,1 year ago
+Sinatra vulnerable to Reflected File Download attack,sinatra,RubyGems,HIGH,Yes,1 year ago
+CVE-2022-45442: Ruby Sinatra Reflected File Download Vulnerability,ruby-sinatra,Debian:11,N/A,Yes,1 year ago
+Security Update for python-django,python-django,Debian:10,N/A,Yes,1 year ago
+Vulnerability in python-django - SQL Injection and Denial-of-Service,python-django,Debian:10,N/A,Yes,2 years ago
+Security Update for python-django,python-django,Debian:10,N/A,Yes,2 years ago
+CVE-2022-41323: Denial-of-service vulnerability in internationalized URLs in Django,django,PyPI,HIGH,Yes,2 years ago
+Denial of Service Vulnerability in Django Package: CVE-2022-41323,python-django,Debian:11,N/A,Yes,2 years ago
+CVE-2022-41323: Django - Denial of Service via Locale Parameter,django,PyPI,N/A,Yes,2 years ago
+Security Update for python-django,python-django,Debian:11,N/A,Yes,2 years ago
+CVE-2022-42731: django-mfa2 vulnerable to MFA Replay attack,django-mfa2,PyPI,HIGH,Yes,2 years ago
+CVE-2022-42731: Replay Attack Vulnerability in django-mfa2,django-mfa2,PyPI,N/A,Yes,2 years ago
+Reflected File Download Vulnerability in django-sendfile2,django-sendfile2,PyPI,HIGH,Yes,2 years ago
+CVE-2022-36359: Django vulnerable to Reflected File Download attack,django,PyPI,HIGH,Yes,2 years ago
+CVE-2022-36359: Django FileResponse Class Vulnerability Leading to Reflected File Download,python-django,Debian:11,N/A,Yes,2 years ago
+CVE-2022-36359: Django - Reflected File Download Vulnerability,django,PyPI,N/A,Yes,2 years ago
+CVE-2018-25045: Django REST framework XSS Vulnerability,django-rest-framework,PyPI,MODERATE,Yes,2 years ago
+XSS Vulnerability in Django REST Framework: A Security Concern,djangorestframework,Debian:11,N/A,Yes,2 years ago
+Cross-Site Scripting Vulnerabilities in djangorestframework,djangorestframework,Debian:10,N/A,Yes,2 years ago
+CVE-2022-34265: Django Trunc() and Extract() Database Functions SQL Injection,django,PyPI,CRITICAL,Yes,2 years ago
+SQL Injection Vulnerability in Django Package: CVE-2022-34265,python-django,Debian:11,N/A,Yes,2 years ago
+CVE-2022-34265: SQL Injection Vulnerability in Django,django,PyPI,N/A,Yes,2 years ago
+CVE-2022-32996: django-navbar-client Code Execution Backdoor,django-navbar-client,PyPI,N/A,Yes,2 years ago
+Cross Site Scripting Vulnerability in django-jsonform's Admin Form,django-jsonform,PyPI,HIGH,Yes,2 years ago
+CVE-2022-24840: django-s3file AWS S3 Bucket Traversal Vulnerability,django-s3file,PyPI,N/A,Yes,2 years ago
+CVE-2022-24840: Path Traversal in django-s3file,django-s3file,PyPI,CRITICAL,Yes,2 years ago
+SQL Injection Vulnerability in python-django,python-django,Debian:9,N/A,Yes,2 years ago
+CVE-2012-3444: Django Improper Restriction of Operations within the Bounds of a Memory Buffer,django,PyPI,HIGH,Yes,2 years ago
+CVE-2012-3442: Cross-Site Scripting (XSS) in django,django,PyPI,MODERATE,Yes,2 years ago
+Django Image Field Vulnerable to Image Decompression Bombs,django,PyPI,HIGH,Yes,2 years ago
+CVE-2012-4520: Django Arbitrary URL Generation,django,PyPI,HIGH,Yes,2 years ago
+CVE-2013-4315: Directory Traversal Vulnerability in Django,django,PyPI,HIGH,Yes,2 years ago
+CVE-2013-1443: Django Denial of Service Vulnerability in the authentication framework,django,PyPI,HIGH,Yes,2 years ago
+CVE-2015-0846: django-markupfield Arbitrary File Read,django-markupfield,PyPI,HIGH,Yes,2 years ago
+CVE-2016-2048: Django ModelAdmin Object Creation Bypass,django,PyPI,MODERATE,Yes,2 years ago
+Django Cross-site Scripting Vulnerability,django,PyPI,MODERATE,Yes,2 years ago
+CVE-2015-3982: Django User Session Hijacking via Empty String,django,PyPI,MODERATE,Yes,2 years ago
+Django settings leak in date template filter (GHSA-6wcr-wcqm-3mfh),django,PyPI,MODERATE,Yes,2 years ago
+CVE-2015-0219: Django WSGI Header Spoofing Vulnerability,django,PyPI,MODERATE,Yes,2 years ago
+CVE-2015-0221: Django DoS in django.views.static.serve,django,PyPI,HIGH,Yes,2 years ago
+Django ModelMultipleChoiceField Database Denial-of-Service Vulnerability,django,PyPI,HIGH,Yes,2 years ago
+CVE-2015-0220: Django Cross-site Scripting Vulnerability,django,PyPI,MODERATE,Yes,2 years ago
+CVE-2015-5964: Denial-of-Service Vulnerability in Django,django,PyPI,MODERATE,Yes,2 years ago
+CVE-2014-0473: Django - Reuse of CSRF Token for Anonymous Users,django,PyPI,HIGH,Yes,2 years ago
+CVE-2014-0474: Django - Type Conversion Vulnerability,django,PyPI,HIGH,Yes,2 years ago
+CVE-2014-0472: Code Injection in Django,django,PyPI,CRITICAL,Yes,2 years ago
+CVE-2014-1418: Django Vulnerable to Cache Poisoning,django,PyPI,HIGH,Yes,2 years ago
+CVE-2015-5081: django-cms CSRF Vulnerability,django-cms,PyPI,HIGH,Yes,2 years ago
+CVE-2013-4249: Django Cross-site scripting (XSS) vulnerability in the AdminURLFieldWidget widget,django,PyPI,MODERATE,Yes,2 years ago
+CVE-2016-2512: Django - URL Redirection and Cross-Site Scripting Vulnerability,django,PyPI,MODERATE,Yes,2 years ago
+CVE-2016-2513: Timing Attack Vulnerability in Django,django,PyPI,LOW,Yes,2 years ago
+CVE-2015-5144: Django Vulnerable to HTTP Response Splitting Attack,django,PyPI,HIGH,Yes,2 years ago
+CVE-2015-5145: Django URLValidator Denial of Service,django,PyPI,HIGH,Yes,2 years ago
+CVE-2015-5963: Django denial of service via empty session record creation,django,PyPI,MODERATE,Yes,2 years ago
+CVE-2016-9014: Django DNS Rebinding Vulnerability,django,PyPI,HIGH,Yes,2 years ago
+CVE-2016-9013: Django user with hardcoded password created when running tests on Oracle,django,PyPI,CRITICAL,Yes,2 years ago
+CVE-2013-6044: Django Cross-site scripting (XSS) vulnerability via is_safe_url function,django,PyPI,MODERATE,Yes,2 years ago
+CVE-2016-7401: Django CSRF Protection Bypass,django,PyPI,HIGH,Yes,2 years ago
+CVE-2011-4138: Django Might Allow CSRF Requests via URL Verification,django,PyPI,HIGH,Yes,2 years ago
+CVE-2011-4139: Django Vulnerable to Cache Poisoning,django,PyPI,HIGH,Yes,2 years ago
+CVE-2018-1000089: django-anymail Includes Sensitive Information in Log Files,django-anymail,PyPI,HIGH,Yes,2 years ago
+CVE-2011-4104: Django Tastypie Improper Deserialization of YAML Data,django-tastypie,PyPI,CRITICAL,Yes,2 years ago
+CVE-2016-6186: Django XSS Vulnerability,django,PyPI,MODERATE,Yes,2 years ago
+CVE-2014-3730: Django Allows Open Redirects,django,PyPI,HIGH,Yes,2 years ago
+CVE-2014-0483: Django data leakage via querystring manipulation in admin,django,PyPI,MODERATE,Yes,2 years ago
+CVE-2014-0480: Django Incorrectly Validates URLs,django,PyPI,HIGH,Yes,2 years ago
+CVE-2014-0482: Django Middleware Enables Session Hijacking,django,PyPI,MODERATE,Yes,2 years ago
+CVE-2015-2316: Django Denial-of-service possibility with strip_tags,django,PyPI,HIGH,Yes,2 years ago
+Django Cross-Site Scripting (XSS) Vulnerability in django,django,PyPI,MODERATE,Yes,2 years ago
+CVE-2014-0481: Django denial of service via file upload naming,django,PyPI,HIGH,Yes,2 years ago
+CVE-2018-16552: MicroPyramid Django-CRM CSRF,django-crm,PyPI,HIGH,No,2 years ago
+CVE-2018-16552: Django-CRM 0.2 CSRF Vulnerability,django-crm,PyPI,HIGH,No,2 years ago
+CVE-2013-0305: Django Data leakage via admin history log,django,PyPI,MODERATE,Yes,2 years ago
+CVE-2013-0306: Django Denial of Service in formset,django,PyPI,MODERATE,Yes,2 years ago
+CVE-2009-3695: Django's Insufficient Algorithmic Complexity Causes Denial of Service,django,PyPI,HIGH,Yes,2 years ago
+CVE-2009-2659: Django Admin Media Handler Vulnerable to Directory Traversal,django,PyPI,HIGH,Yes,2 years ago
+CVE-2008-3909: Django Cross-Site Request Forgery (CSRF) Vulnerability,django,PyPI,HIGH,Yes,2 years ago
+CVE-2008-2302: Cross-Site Scripting (XSS) Vulnerability in Django,django,PyPI,MODERATE,Yes,2 years ago
+CVE-2007-5712: Django Denial of Service via i18n Middleware Component,django,PyPI,MODERATE,Yes,2 years ago
+Django Arbitrary Code Execution in django,django,PyPI,HIGH,Yes,2 years ago
+CVE-2022-24857: Improper Authentication in django-mfa3,django-mfa3,PyPI,HIGH,Yes,2 years ago
+CVE-2022-24857: django-mfa3 - Bypass of Multi-Factor Authentication in Django Admin Login,django-mfa3,PyPI,N/A,Yes,2 years ago
+SQL Injection Vulnerability in python-django,python-django,Debian:9,N/A,Yes,2 years ago
+CVE-2022-28346: SQL Injection in Django,django,PyPI,CRITICAL,Yes,2 years ago
+CVE-2022-28347: SQL Injection in Django,django,PyPI,CRITICAL,Yes,2 years ago
+Critical SQL Injection Vulnerability in Django Package,python-django,Debian:11,N/A,Yes,2 years ago
+SQL Injection Vulnerability in Django Package: CVE-2022-28346,python-django,Debian:11,N/A,Yes,2 years ago
+CVE-2022-28346: SQL Injection in Django,django,PyPI,N/A,Yes,2 years ago
+CVE-2022-28347: SQL Injection in Django,django,PyPI,N/A,Yes,2 years ago
+CVE-2022-0869: Open Redirect in django-spirit,django-spirit,PyPI,MODERATE,Yes,2 years ago
+CVE-2022-22818: Cross-site Scripting in Django,django,PyPI,MODERATE,Yes,2 years ago
+CVE-2022-23833: Infinite Loop in Django,django,PyPI,HIGH,Yes,2 years ago
+Infinite Loop Vulnerability in Django's MultiPartParser,python-django,Debian:11,N/A,Yes,2 years ago
+Infinite Loop Vulnerability in Django's MultiPartParser,python-django,Debian:11,N/A,Yes,2 years ago
+CVE-2022-22818: Django - Improper Encoding of Context in {% debug %} Template Tag,django,PyPI,N/A,Yes,2 years ago
+CVE-2022-23833: Django MultiPartParser Infinite Loop Vulnerability,django,PyPI,N/A,Yes,2 years ago
+Security Update for python-django: Possible XSS and Denial-of-Service Vulnerabilities,python-django,Debian:9,N/A,Yes,2 years ago
+CVE-2021-44649: Cross-site Scripting in django-cms,django-cms,PyPI,MODERATE,Yes,2 years ago
+CVE-2021-45116: Information disclosure in Django,django,PyPI,HIGH,Yes,2 years ago
+CVE-2021-45452: Directory-traversal in Django,django,PyPI,MODERATE,Yes,2 years ago
+CVE-2021-45115: Denial-of-service in Django,django,PyPI,HIGH,Yes,2 years ago
+CVE-2021-44649: Django CMS Cross Site Scripting (XSS) Vulnerability,django-cms,PyPI,N/A,Yes,2 years ago
+Django Template Language Vulnerability: Information Disclosure Risk in python-django,python-django,Debian:11,N/A,Yes,2 years ago
+Django Template Language Vulnerability: Information Disclosure Risk in python-django,python-django,Debian:11,N/A,Yes,2 years ago
+Directory Traversal Vulnerability in Django Package: CVE-2021-45452,python-django,Debian:11,N/A,Yes,2 years ago
+CVE-2021-45115: Django UserAttributeSimilarityValidator Denial-of-Service Vulnerability,django,PyPI,N/A,Yes,2 years ago
+CVE-2021-45116: Django - Information Disclosure in dictsort Template Filter,django,PyPI,N/A,Yes,2 years ago
+CVE-2021-45452: Directory Traversal Vulnerability in Django,django,PyPI,N/A,Yes,2 years ago
+CVE-2021-44420: Potential bypass of upstream access control in Django,django,PyPI,HIGH,Yes,2 years ago
+Django Trailing Newline Bypass Vulnerability - CVE-2021-44420,python-django,Debian:11,N/A,Yes,2 years ago
+CVE-2021-44420: Django - Bypass of Upstream Access Control,django,PyPI,N/A,Yes,2 years ago
+CVE-2021-3994: Cross-site Scripting Vulnerability in django-helpdesk,django-helpdesk,PyPI,HIGH,Yes,2 years ago
+CVE-2021-25986: Cross-site Scripting in django-wiki,wiki,PyPI,MODERATE,Yes,2 years ago
+CVE-2021-3994: Cross-site Scripting Vulnerability in django-helpdesk,django-helpdesk,PyPI,N/A,Yes,2 years ago
+CVE-2021-25986: Stored Cross-Site Scripting (XSS) in Django-wiki,wiki,PyPI,N/A,Yes,2 years ago
+CVE-2021-3950: Cross-site Scripting in django-helpdesk,django-helpdesk,PyPI,HIGH,Yes,2 years ago
+CVE-2021-3950: Cross-site Scripting Vulnerability in django-helpdesk,django-helpdesk,PyPI,N/A,Yes,2 years ago
+CVE-2021-3945: Cross-site Scripting in django-helpdesk,django-helpdesk,PyPI,HIGH,Yes,2 years ago
+CVE-2021-3945: Cross-site Scripting Vulnerability in django-helpdesk,django-helpdesk,PyPI,N/A,Yes,2 years ago
+CVE-2021-42053: Cross-site scripting in Unicorn framework,django-unicorn,PyPI,MODERATE,Yes,3 years ago
+CVE-2021-42134: Cross-site Scripting in django-unicorn,django-unicorn,PyPI,MODERATE,Yes,3 years ago
+CVE-2021-42134: XSS Vulnerability in django-unicorn,django-unicorn,PyPI,N/A,Yes,3 years ago
+CVE-2021-42053: XSS Vulnerability in django-unicorn,django-unicorn,PyPI,N/A,Yes,3 years ago
+CVE-2021-35042: SQL Injection in Django,django,PyPI,CRITICAL,Yes,3 years ago
+CVE-2020-18704: Unrestricted Upload of File with Dangerous Type in django-widgy,django-widgy,PyPI,CRITICAL,Yes,3 years ago
+CVE-2020-18704: Unrestricted Upload of File with Dangerous Type in Django-Widgy,django-widgy,PyPI,N/A,Yes,3 years ago
+CVE-2021-35042: Django SQL Injection in QuerySet.order_by,django,PyPI,N/A,Yes,3 years ago
+CVE-2021-33571: Bypass of access control in Django,django,PyPI,HIGH,Yes,3 years ago
+CVE-2021-33203: Path Traversal in Django,django,PyPI,MODERATE,Yes,3 years ago
+CVE-2021-32052: Header injection possible in Django,django,PyPI,MODERATE,Yes,3 years ago
+Django URL Validation Vulnerability: Bypass of Access Control via Leading Zero IP Addresses,python-django,Debian:11,N/A,Yes,3 years ago
+Directory Traversal Vulnerability in Django Package,python-django,Debian:11,N/A,Yes,3 years ago
+CVE-2021-33203: Directory Traversal Vulnerability in Django,django,PyPI,N/A,Yes,3 years ago
+CVE-2021-33571: Django - IP Address Bypass Vulnerability,django,PyPI,N/A,Yes,3 years ago
+Vulnerability in python-django - security update,python-django,Debian:9,N/A,Yes,3 years ago
+CVE-2020-17495: django-celery-results - Cleartext Storage of Sensitive Information,django-celery-results,PyPI,HIGH,Yes,3 years ago
+CVE-2021-31542: Path Traversal in Django,django,PyPI,HIGH,Yes,3 years ago
+Header Injection Vulnerability in python-django,python-django,Debian:11,N/A,Yes,3 years ago
+CVE-2021-32052: Django URLValidator Header Injection Vulnerability,django,PyPI,N/A,Yes,3 years ago
+Directory Traversal Vulnerability in python-django,python-django,Debian:9,N/A,Yes,3 years ago
+Directory Traversal Vulnerability in Django Package,python-django,Debian:11,N/A,Yes,3 years ago
+CVE-2021-31542: Directory Traversal Vulnerability in Django,django,PyPI,N/A,Yes,3 years ago
+Denial of Service Vulnerability in django-filter Package,django-filter,Debian:11,N/A,Yes,3 years ago
+CVE-2020-15225: django-filter Denial of Service Vulnerability,django-filter,PyPI,N/A,Yes,3 years ago
+CVE-2021-30459: SQL Injection via django-debug-toolbar,django-debug-toolbar,PyPI,HIGH,Yes,3 years ago
+CVE-2021-30459: SQL Injection in django-debug-toolbar,django-debug-toolbar,PyPI,N/A,Yes,3 years ago
+Directory Traversal Vulnerability in python-django,python-django,Debian:9,N/A,Yes,3 years ago
+CVE-2021-28658: Directory Traversal in Django,django,PyPI,MODERATE,Yes,3 years ago
+CVE-2021-21416: Potential sensitive information disclosure in django-registration,django-registration,PyPI,LOW,Yes,3 years ago
+Directory Traversal Vulnerability in Django Package,python-django,Debian:11,N/A,Yes,3 years ago
+CVE-2021-28658: Directory Traversal Vulnerability in Django,django,PyPI,N/A,Yes,3 years ago
+Sensitive Data Exposure in django-registration Package,python-django-registration,Debian:11,N/A,No,3 years ago
+CVE-2021-21416: django-registration - Sensitive Data Exposure in User Registration,django-registration,PyPI,N/A,Yes,3 years ago
+CVE-2020-25626: Cross-site Scripting (XSS) in Django REST Framework,djangorestframework,PyPI,MODERATE,Yes,3 years ago
+CVE-2020-35681: Django Channels - Exposure of Sensitive Information to an Unauthorized Actor,channels,PyPI,HIGH,Yes,3 years ago
+CVE-2020-24583: Incorrect Default Permissions in Django,django,PyPI,HIGH,Yes,3 years ago
+CVE-2020-24584: Incorrect Default Permissions in Django,django,PyPI,HIGH,Yes,3 years ago
+CVE-2021-32810: crossbeam-deque Data Race Vulnerability,django,PyPI,MODERATE,Yes,3 years ago
+CVE-2021-3281: Improper Limitation of a Pathname to a Restricted Directory in Django,django,PyPI,MODERATE,Yes,3 years ago
+Cross-Site Scripting Vulnerability in Django-Rest-Framework,djangorestframework,PyPI,MODERATE,Yes,3 years ago
+Sensitive Data Exposure in Django Channels 3.x - CVE-2020-35681,python-django-channels,Debian:11,N/A,Yes,3 years ago
+CVE-2020-35681: Django Channels Information Leakage,channels,PyPI,N/A,Yes,3 years ago
+Web Cache Poisoning Attack in python-django,python-django,Debian:9,N/A,Yes,3 years ago
+Web Cache Poisoning Vulnerability in python/cpython,python3,Alpine:v3.12,N/A,Yes,3 years ago
+Directory Traversal Vulnerability in Django Package,python-django,Debian:11,N/A,Yes,3 years ago
+CVE-2021-3281: Directory Traversal Vulnerability in Django,django,PyPI,N/A,Yes,3 years ago
+Directory Traversal Vulnerability in python-django,python-django,Debian:9,N/A,Yes,3 years ago
+Cross-Site Scripting Vulnerability in Django REST Framework: CVE-2020-25626,djangorestframework,Debian:11,N/A,Yes,4 years ago
+CVE-2020-25626: Django REST Framework Cross-Site Scripting (XSS) Vulnerability,djangorestframework,PyPI,N/A,Yes,4 years ago
+CVE-2020-15225: Potential DoS with NumberFilter conversion to integer values in django-filter,django-filter,PyPI,HIGH,Yes,4 years ago
+Vulnerability in Django: Incorrect Filesystem Cache Permissions,py-django,Alpine:v3.10,N/A,Yes,4 years ago
+Vulnerability in Django: FILE_UPLOAD_DIRECTORY_PERMISSIONS,py-django,Alpine:v3.10,N/A,Yes,4 years ago
+CVE-2020-24583: Django - Inadequate Permissions on Intermediate-Level Directories,django,PyPI,N/A,Yes,4 years ago
