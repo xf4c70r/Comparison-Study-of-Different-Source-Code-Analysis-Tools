@@ -1,0 +1,11 @@
+Title,Vulnerable Package,Ecosystem,Risk,Patched,Disclosed on
+CVE-2024-42816: FastAPI Admin XSS Vulnerability in Create Product Function,fastapi-admin,PyPI,MODERATE,No,3 months ago
+CVE-2024-42818: FastAPI Admin Cross-site Scripting Vulnerability in Config-Create Function,fastapi-admin,PyPI,MODERATE,No,3 months ago
+CVE-2024-40627: Open Source Vulnerability in fastapi-opa - OpaMiddleware does not filter HTTP OPTIONS requests,fastapi-opa,PyPI,MODERATE,Yes,4 months ago
+Malicious code in fastapi-https (PyPI),fastapi-https,PyPI,CRITICAL,No,5 months ago
+FastAPI Content-Type Header ReDoS in fastapi,fastapi,PyPI,HIGH,Yes,10 months ago
+CVE-2024-24762: FastAPI Regular Expression Denial of Service (ReDoS),fastapi,PyPI,N/A,Yes,10 months ago
+Cookie Leakage Vulnerability in fastapi-proxy-lib,fastapi-proxy-lib,PyPI,HIGH,Yes,1 year ago
+CVE-2021-32677: Cross-Site Request Forgery (CSRF) in FastAPI,fastapi,PyPI,HIGH,Yes,3 years ago
+CSRF Vulnerability in FastAPI: Cookie Authentication Exploit,fastapi,Debian:11,N/A,No,3 years ago
+CVE-2021-32677: FastAPI Cross-Site Request Forgery (CSRF) Vulnerability,fastapi,PyPI,N/A,Yes,3 years ago
