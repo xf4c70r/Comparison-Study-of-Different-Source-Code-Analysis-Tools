@@ -17,6 +17,11 @@ The primary goals of this study are to:
 - Compare tool performance against baseline vulnerability databases
 - Investigate the relationship between framework maturity and vulnerability detection
 
+## Research Questions
+
+- How do modern security analysis tools (Semgrep, SonarQube) compare to legacy tools (Bandit), using Vulert as a baseline database for identifying vulnerabilities across Django and FastAPI?
+- To what extent does the age and maturity of a web framework influence the types and severity of detected vulnerabilities?
+- What are the performance differences among security analysis tools in terms of lines of code scanned and time required for comprehensive vulnerability detection?
 
 ```
 web-framework-security-analysis/
@@ -26,7 +31,7 @@ web-framework-security-analysis/
 │   │   ├── django.txt
 │   │   └── django-script.py
 │   └── FastAPI/
-│       ├── vulnerabilities.txt
+│       ├── fastapi.txt
 │       └── fastapi-script.py
 │
 ├── Semgrep/
