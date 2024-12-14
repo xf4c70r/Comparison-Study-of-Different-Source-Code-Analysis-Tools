@@ -1,14 +1,15 @@
 # Comparison-Study-of-Different-Source-Code-Analysis-Tools
 
 This research project addresses a critical gap in cybersecurity by conducting a comprehensive comparative analysis of security vulnerability detection tools across two prominent Python web frameworks: Django and FastAPI. As web technologies rapidly evolve, understanding the effectiveness of modern and legacy security analysis tools becomes increasingly important for developers and security professionals.
-Research Motivation
+
+## Research Motivation
 The project is driven by several key challenges in the current cybersecurity landscape:
 
-Inconsistent vulnerability detection capabilities across different security tools
-Limited comparative studies of tool effectiveness
-The need to understand how tool age and framework maturity impact vulnerability identification
+- Inconsistent vulnerability detection capabilities across different security tools
+- Limited comparative studies of tool effectiveness
+- The need to understand how tool age and framework maturity impact vulnerability identification
 
-Research Objectives
+##  Research Objectives
 The primary goals of this study are to:
 
 - Conduct a comprehensive analysis of security tool performance across Django and FastAPI
