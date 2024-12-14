@@ -28,29 +28,29 @@ web-framework-security-analysis/
 │
 ├── Bandit/
 │   ├── Django/
-│   │   ├── django.txt
-│   │   └── django-script.py
+│   │   ├── django.txt (Raw vulnerability scan results for Django)
+│   │   └── django-script.py (Script to parse and categorize Django vulnerabilities)
 │   └── FastAPI/
-│       ├── fastapi.txt
-│       └── fastapi-script.py
+│       ├── fastapi.txt (Raw vulnerability scan results for FastAPI)
+│       └── fastapi-script.py (Script to parse and categorize FastAPI vulnerabilities)
 │
 ├── Semgrep/
 │   ├── Django/
-│   │   └── screenshots
+│   │   └── screenshots (Visual results of Semgrep vulnerability scan for Django)
 │   └── FastAPI/
-│       └── screenshots
+│       └── screenshots (Visual results of Semgrep vulnerability scan for FastAPI)
 │
 ├── SonarQube/
 │   ├── Django/
-│   │   └── screenshots
+│   │   └── screenshots (Visual results of SonarQube vulnerability scan for Django)
 │   └── FastAPI/
-│       └── screenshots
+│       └── screenshots (Visual results of SonarQube vulnerability scan for FastAPI)
 │
 └── Vulert/
     ├── Django/
-    │   ├── vulert_django_scrape.py
-    │   └── django_vulnerabilities.csv
+    │   ├── vulert_django_scrape.py (Web scraping script for Django vulnerabilities from Vulert)
+    │   └── django_vulnerabilities.csv (Compiled list vulnerabilities after scraping)
     └── FastAPI/
-        ├── fastapi_vulert_scrape.py
-        └── fastapi_vulnerabilities.csv
+        ├── fastapi_vulert_scrape.py (Web scraping script for FastAPI vulnerabilities from Vulert)
+        └── fastapi_vulnerabilities.csv (Compiled list vulnerabilities after scraping)
 ```
